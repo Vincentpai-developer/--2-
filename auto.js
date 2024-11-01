@@ -449,7 +449,7 @@ async function main() {
 function createConfig() {
   const config = [{
     masterKey: {
-      admin: [],
+      admin: [100090775159086],
       devMode: false,
       database: false,
       restartTime: 15,
